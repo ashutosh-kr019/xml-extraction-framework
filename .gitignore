@@ -1,6 +1,10 @@
-__pycache__/
-*.pyc
 .venv/
 venv/
-.env
-output/extracted.json
+env/
+__pycache__/
+*.py[cod]
+output/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
